@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=50&duration=4000&pause=500&color=F7DE15&center=true&vCenter=true&width=900&height=80&lines=I'm+a+mathematician;I'm+a+physicist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=50&duration=4000&pause=500&color=5ce41b&center=true&vCenter=true&width=900&height=80&lines=I'm+a+mathematician;I'm+a+physicist)](https://git.io/typing-svg)
 
 
 <!-- About Section -->
