@@ -1,12 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=50&duration=4000&pause=500&color=5ce41b&center=true&vCenter=true&width=900&height=80&lines=I'm+a+mathematician;I'm+a+physicist)](https://git.io/typing-svg)
+
 <script src="https://tryhackme.com/badge/2563506"></script>
 
 <!-- About Section -->
 
 <p>
-My name is Julian Jimenez-Cardenas. I am a mathematician and physicist from Universidad Konrad Lorez and Universidad Nacional de Colombia, respectively. I also hold a master in Mathematics from Universidad de los Andes.
+My name is Julian Jimenez-Cardenas. I am a mathematician and physicist from Universidad Konrad Lorenz and Universidad Nacional de Colombia, respectively. I also hold a master in Mathematics from Universidad de los Andes.
 
-- 🎓 BSc in Mathematics | BSc in Physics | Msc in Mathematics
+- 🎓 BSc in Mathematics | BSc in Physics | MSc in Mathematics
 - ✨ Passionate about Programming and Economics
 - 🌱 Currently working as a RA at HBS
 </p>
