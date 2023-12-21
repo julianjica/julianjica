@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=50&duration=4000&pause=500&color=5ce41b&center=true&vCenter=true&width=900&height=80&lines=I'm+a+mathematician;I'm+a+physicist)](https://git.io/typing-svg)
 
-<script src="https://tryhackme.com/badge/2563506"></script>
-
 <!-- About Section -->
 
 <p>
@@ -42,4 +40,4 @@ My name is Julian Jimenez-Cardenas. I am a mathematician and physicist from Univ
 </details>
 
 
-![](https://komarev.com/ghpvc/?username=julianjica) ![](https://img.shields.io/github/followers/julianjica.svg?style=social&label=Follow)
+![](https://komarev.com/ghpvc/?username=julianjica) ![](https://img.shields.io/github/followers/julianjica.svg?style=social&label=Follow) <img src="https://tryhackme-badges.s3.amazonaws.com/julianorla.png" alt="TryHackMe">
