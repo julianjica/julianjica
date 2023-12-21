@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=50&duration=4000&pause=500&color=5ce41b&center=true&vCenter=true&width=900&height=80&lines=I'm+a+mathematician;I'm+a+physicist)](https://git.io/typing-svg)
-
+<script src="https://tryhackme.com/badge/2563506"></script>
 
 <!-- About Section -->
 
